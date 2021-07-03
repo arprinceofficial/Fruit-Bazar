@@ -1,0 +1,13 @@
+<svg class="icon">
+  <use xlink:href="#icon-camera"></use>
+</svg>
+
+https://svgsprit.es/
+https://convertio.co/download/f3b2b8e666d3d2486bc8e9db72d43db57019ef/
+
+https://github.com/ziddahedem/fruit__website
+https://github.com/ziddahedem/fruit__website/blob/master/styles.css
+https://github.com/ziddahedem/fruit__website/blob/master/app.js
+https://github.com/ziddahedem/fruit__website/tree/master/images
+
+last video update: 40.1 sec
